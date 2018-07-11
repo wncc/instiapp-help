@@ -20,14 +20,15 @@ Some features that are currently available are
 ## Who fills in the events and other data?
 Everything is done by POR holders! If you're a manager/convener or equivalent for a club/IB, login to InstiApp and let us know so we can grant you permissions on your club.
 
+## Mess Menu
 ## My hostel has no mess menu ...
 Ask your mess councillors/secretaries to update it! For those responsible, you just have to update a Google Sheet, which will automatically update data in the app hourly.
 
+### Hostel 1 shows up in mess menu by default
+Fill up your hostel in your [SSO profile](https://gymkhana.iitb.ac.in/sso/user/) and logout and login again. You can still view other mess menus by selecting the hostel from the dropdown on the website, or by tapping the hostel name in the Android app.
+
 ## What happens when I follow events/clubs?
 When you follow an event, you'll get notification when/if the event is updated. Following a body will get events of the body higher priority in your feed and notifications for new events/news.
-
-## Hostel 1 shows up in mess menu by default
-Fill up your hostel in your [SSO profile](https://gymkhana.iitb.ac.in/sso/user/) and logout and login again. You can still view other mess menus by selecting the hostel from the dropdown on the website, or by tapping the hostel name in the Android app.
 
 ## I updated my profile pic but can't see it
 Logout and login again whenever you update your profile.
