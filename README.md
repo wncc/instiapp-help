@@ -26,6 +26,12 @@ Ask your mess councillors/secretaries to update it! For those responsible, you j
 ## What happens when I follow events/clubs?
 When you follow an event, you'll get notification when/if the event is updated. Following a body will get events of the body higher priority in your feed and notifications for new events/news.
 
+## Hostel 1 shows up in mess menu by default
+Fill up your hostel in your [SSO profile](https://gymkhana.iitb.ac.in/sso/user/) and logout and login again. You can still view other mess menus by selecting the hostel from the dropdown on the website, or by tapping the hostel name in the Android app.
+
+## I updated my profile pic but can't see it
+Logout and login again whenever you update your profile.
+
 ## How to add an event?
 To add an event, go to Calendar, select a date and click the add event button in the bottom right corner. It is **highly recommended** that you upload an image, since this could have an effect on how high your event is in the feed. Next you need to add a title, description and choose the organizations and venues. Always choose venues from suggestions instead of writing the full name. Doing so will ensure better priority and other features in the future. When you're done, click the Create Event button.
 
