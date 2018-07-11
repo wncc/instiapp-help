@@ -21,7 +21,7 @@ Some features that are currently available are
 Everything is done by POR holders! If you're a manager/convener or equivalent for a club/IB, login to InstiApp and let us know so we can grant you permissions on your club.
 
 ## Mess Menu
-## My hostel has no mess menu ...
+### My hostel has no mess menu ...
 Ask your mess councillors/secretaries to update it! For those responsible, you just have to update a Google Sheet, which will automatically update data in the app hourly.
 
 ### Hostel 1 shows up in mess menu by default
