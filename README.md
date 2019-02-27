@@ -4,9 +4,9 @@ InstiApp has been designed ground up to be the one common platform for all stude
 1) The Android App
 2) The Website - [insti.app](https://insti.app) - for Windows, iOS, Android etc.
 
-<a href='https://play.google.com/store/apps/details?id=app.insti&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img target="_blank" alt='Get it on Google Play' src='assets/play.png' height=72 /></a>
-<a href='https://insti.app'><img target="_blank" alt='InstiApp PWA' src='assets/instiapp-badge.png' height=72 /></a>
-<a href='//www.microsoft.com/store/apps/9pcp42rv9b80?ocid=badge'><img src='assets/msstore.png' alt='MS badge' height=72/></a>
+<a href='https://play.google.com/store/apps/details?id=app.insti&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img target="_blank" alt='Get it on Google Play' src='assets/play.png' height=56 /></a> &nbsp;
+<a href='https://insti.app'><img target="_blank" alt='InstiApp PWA' src='assets/instiapp-badge.png' height=56 /></a>&nbsp;
+<a href='//www.microsoft.com/store/apps/9pcp42rv9b80?ocid=badge'><img src='assets/msstore.png' alt='MS badge' height=56/></a>
 
 ## What features does InstiApp have?
 Some features that are currently available are
