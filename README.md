@@ -1,6 +1,6 @@
 # InstiApp FAQ
 ## What is InstiApp?
-InstiApp has been designed ground up to be the one common platform for all student activities in IIT Bombay. The app consists of two versions:
+InstiApp has been designed ground up to be the one common platform for all student activities in IIT Bombay. The app consists of three versions:
 1) The Android App
 2) The Website - [insti.app](https://insti.app) - for Windows, iOS, Android etc.
 3) The ios App(Beta)- [InstiApp](https://testflight.apple.com/join/I5dt2bpN)
