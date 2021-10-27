@@ -18,7 +18,7 @@ Some features that are currently available are
 * Insti news collated from blogs of major bodies
 * Institute calendar which will have information of all the events
 * Notifications for new events, updates on events, mentions in PT blogs and so on.
-* Quick links for importal portals, Academic time table and calendar, VPN, etc.
+* Quick links for important portals, Academic time table and calendar, VPN, etc.
 
 ## Who fills in the events and other data?
 Everything is done by POR holders! If you're a manager/convener or equivalent for a club/IB, login to InstiApp and let us know so we can grant you permissions on your club. Once a few people are added, they can also add others from the option to edit the body/club.
