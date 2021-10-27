@@ -1,8 +1,9 @@
 # InstiApp FAQ
 ## What is InstiApp?
-InstiApp has been designed ground up to be the one common platform for all student activities in IIT Bombay. The app consists of two versions:
+InstiApp has been designed ground up to be the one common platform for all student activities in IIT Bombay. The app consists of three versions:
 1) The Android App
 2) The Website - [insti.app](https://insti.app) - for Windows, iOS, Android etc.
+3) The ios App(Beta)- [InstiApp](https://testflight.apple.com/join/I5dt2bpN)
 
 <a href='https://play.google.com/store/apps/details?id=app.insti&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img target="_blank" alt='Get it on Google Play' src='assets/play.png' height=56 /></a> &nbsp;
 <a href='https://insti.app'><img target="_blank" alt='InstiApp PWA' src='assets/instiapp-badge.png' height=56 /></a>&nbsp;
@@ -17,7 +18,7 @@ Some features that are currently available are
 * Insti news collated from blogs of major bodies
 * Institute calendar which will have information of all the events
 * Notifications for new events, updates on events, mentions in PT blogs and so on.
-* Quick links for CMS, Academic time table and calendar, VPN, etc.
+* Quick links for important portals, Academic time table and calendar, VPN, etc.
 
 ## Who fills in the events and other data?
 Everything is done by POR holders! If you're a manager/convener or equivalent for a club/IB, login to InstiApp and let us know so we can grant you permissions on your club. Once a few people are added, they can also add others from the option to edit the body/club.
